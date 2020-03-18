@@ -9,9 +9,10 @@ The sample app is preconfigured to integrate with the
 which you can use to easily get started before you configure account linking
 with Google.
 
-## Screenshots
+Documentation links:
 
-![](images/screenshot.png)
+- [App Flip Overview](https://developers.google.com/identity/account-linking/app-flip-overview)
+- [App Flip for iOS](https://developers.google.com/identity/account-linking/app-flip-ios)
 
 ## Prerequisites
 
@@ -46,6 +47,10 @@ with Google.
 1. Add the following to your **Associated Domains** in Xcode project settings:
    `applinks:<your-website-domain>`
 1. Build and run the app on your target device
+
+## Screenshots
+
+![](images/screenshot.png)
 
 ## License
 
