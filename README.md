@@ -47,6 +47,7 @@ Documentation links:
 1. Add the following to your **Associated Domains** in Xcode project settings:
    `applinks:<your-website-domain>`
 1. Build and run the app on your target device
+1. Setup and run the [App Flip Test Tool for iOS](https://github.com/googlesamples/identity-appflip-tester-ios) to simulate the App Flip interaction
 
 ## Screenshots
 
