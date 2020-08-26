@@ -23,7 +23,7 @@ class AppFlipViewController: UIViewController {
 
   override func viewDidLoad() {
     logField.text.append(
-      "Received\nclientID = \(flipData["clientID"]!)\nscopes = \(flipData["scope"]!)" +
+      "Received\nclientID = \(flipData["clientID"]!)\nscope = \(flipData["scope"]!)" +
       "\nstate = \(flipData["state"]!)\nredirect_URI = \(flipData["redirectUri"]!)\n")
   }
 
